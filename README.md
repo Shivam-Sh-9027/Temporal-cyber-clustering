@@ -4,8 +4,8 @@ A modern dashboard and backend for analyzing, clustering, and predicting cyberse
 
 ## Screenshots
 
-![Dashboard Screenshot1](Screenshot_2025-12-03_00_50_08.png)
-![Dashboard Screenshot2](Screenshot_2025-12-03_00_53_09.png)
+![Dashboard Screenshot1](screenshot.png)
+![Dashboard Screenshot2](screenshot.png)
 
 ## Features
 
@@ -32,7 +32,7 @@ A modern dashboard and backend for analyzing, clustering, and predicting cyberse
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/Shivam-Sh-9027/Temperal_clustering_of_cyber_security_incidents.git
+   git clone https://github.com/yourusername/Temperal_clustering_of_cyber_security_incidents.git
    cd Temperal_clustering_of_cyber_security_incidents
    ```
 2. **Create & activate a virtual environment:**
@@ -66,6 +66,7 @@ A modern dashboard and backend for analyzing, clustering, and predicting cyberse
 - `attack_type` (string)
 - `severity` (int or string)
 - `description` (string)
+
 
 ## License
 
