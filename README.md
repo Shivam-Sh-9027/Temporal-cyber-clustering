@@ -32,7 +32,7 @@ A modern dashboard and backend for analyzing, clustering, and predicting cyberse
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/Temperal_clustering_of_cyber_security_incidents.git
+   git clone https://github.com/Shivam-Sh-9027/Temperal_clustering_of_cyber_security_incidents.git
    cd Temperal_clustering_of_cyber_security_incidents
    ```
 2. **Create & activate a virtual environment:**
